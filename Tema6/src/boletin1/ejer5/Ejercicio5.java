@@ -23,6 +23,8 @@ public class Ejercicio5 {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+
+		reader.close();
 	}
 
 }

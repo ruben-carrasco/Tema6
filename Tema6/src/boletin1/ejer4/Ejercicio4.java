@@ -26,6 +26,7 @@ public class Ejercicio4 {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		reader.close();
 	}
 
 }
